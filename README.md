@@ -1,18 +1,18 @@
-Fire-Contact-App
+Firebase-Contact-App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Animation of the Website
 
-![image](./src/components/Animation.gif)
+![image](./contact.gif)
 
 ## Visulation of the Website
 
-![image](./src/components/image.jpg)
+![image](./contact.jpg)
 
 ## Description
 
-Project aims get information about Image Gallery App via a Javascript React.
+Project aims get information about Firebase Contact App via a Javascript React.
 
 ## Learning Outcomes
 
@@ -22,6 +22,32 @@ At the end of the this project, you will be able to;
 
 - use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 # Getting Started with Create React App
+
+```
+Contact App (folder)
+|
+|----readme.md
+SOLUTION
+├── public
+│     └── index.html
+├── src
+│    ├── components
+│    │       ├── form
+│    │       │     └── Form.js
+│    │       └── table
+│    │             └── Table.js
+│    ├── utils
+│    │       ├── customToastify.js
+│    │       ├── functions.js
+│    │       └── firebase.js
+│    ├── App.js
+│    ├── App.css
+│    ├── index.js
+│    ├── Animation.gif
+│    └── index.css
+├── package.json
+└── yarn.lock
+```
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
