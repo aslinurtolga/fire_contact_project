@@ -1,3 +1,26 @@
+Fire-Contact-App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Animation of the Website
+
+![image](./src/components/Animation.gif)
+
+## Visulation of the Website
+
+![image](./src/components/image.jpg)
+
+## Description
+
+Project aims get information about Image Gallery App via a Javascript React.
+
+## Learning Outcomes
+
+At the end of the this project, you will be able to;
+
+- improve coding skills within HTML & CSS & JS & ReactJS.
+
+- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
